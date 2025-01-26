@@ -1,18 +1,60 @@
-<h1 align="center">Hi 👋, I'm Aayush Vaghela</h1>
-<h3 align="center">Frontend Developer | Building Responsive Web Apps with React & Tailwind CSS | Passionate About Creating Interactive User ExperiencesA passionate frontend developer from India</h3>
+# 👋 Aayush Vaghela | Frontend Developer
 
-- 🔭 I’m currently working on Website Redesign Projects [meena-plastic-website-redesign](https://meena-plastic-website-redesign.vercel.app/)
+## 🚀 About Me
+Passionate Frontend Developer specializing in creating responsive and interactive web applications using modern web technologies. Committed to building innovative digital solutions that provide exceptional user experiences.
 
-- 🌱 I’m currently learning **React,node js,Express js,Mongo DB,MERN**
+## 💻 Tech Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AAYUSH412](https://github.com/AAYUSH412)
+## 🌟 Featured Projects
 
-- 📫 How to reach me **aayushvaghela12@gmail.com**
+### 1. 🏠 BuildEstate - Real Estate Platform
+- Full-stack real estate website
+- MERN stack implementation
+- Advanced property search and listing
+- [View Project](https://real-estate-website-sepia-two.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aayush-vaghela-a50a65194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-vaghela-a50a65194/" height="30" width="40" /></a>
-</p>
+### 2. 🍽️ BiteBuddy - Food Ordering System
+- Online food ordering platform
+- Integrated payment solutions
+- Responsive mobile-first design
+- [View Project](https://full-stack-online-food-ordering-system-frontend.vercel.app/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 3. 🛍️ E-Commerce Website
+- Complete MERN stack e-commerce solution
+- User authentication
+- Product management and checkout system
+- [View Project](https://e-commerce-website-frontend-ashy.vercel.app/)
+
+### 4. 🏭 Mamo Technolabs Website Redesign
+- Modern, responsive corporate website
+- Firebase integration
+- Performance-optimized design
+- [View Project](https://mamo-technolabs-website.vercel.app/)
+
+### 5. 🏭 Meena Plastic Website Redesign
+- Corporate website redesign
+- Enhanced user interface
+- Responsive across devices
+- [View Project](https://meena-plastic-website-redesign.vercel.app/)
+
+## 🛠️ Skills
+- Frontend: React, Tailwind CSS, JavaScript, TypeScript
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Tools: Git, Docker, AWS, Azure, Firebase
+- Design: Figma, Framer
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-vaghela-a50a65194/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushvaghela12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAYUSH412)
+
+## 📊 GitHub Stats
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=radical)
+
+**Innovate. Create. Inspire.** 🚀
