@@ -1,60 +1,96 @@
-# 👋 Aayush Vaghela | Frontend Developer
+<div align="center">
 
-## 🚀 About Me
-Passionate Frontend Developer specializing in creating responsive and interactive web applications using modern web technologies. Committed to building innovative digital solutions that provide exceptional user experiences.
+# 👋 Hello World! I'm Aayush Vaghela
+### Full Stack Developer | Code Craftsman | Tech Enthusiast
 
-## 💻 Tech Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 🌟 Featured Projects
-
-### 1. 🏠 BuildEstate - Real Estate Platform
-- Full-stack real estate website
-- MERN stack implementation
-- Advanced property search and listing
-- [View Project](https://real-estate-website-sepia-two.vercel.app/)
-
-### 2. 🍽️ BiteBuddy - Food Ordering System
-- Online food ordering platform
-- Integrated payment solutions
-- Responsive mobile-first design
-- [View Project](https://full-stack-online-food-ordering-system-frontend.vercel.app/)
-
-### 3. 🛍️ E-Commerce Website
-- Complete MERN stack e-commerce solution
-- User authentication
-- Product management and checkout system
-- [View Project](https://e-commerce-website-frontend-ashy.vercel.app/)
-
-### 4. 🏭 Mamo Technolabs Website Redesign
-- Modern, responsive corporate website
-- Firebase integration
-- Performance-optimized design
-- [View Project](https://mamo-technolabs-website.vercel.app/)
-
-### 5. 🏭 Meena Plastic Website Redesign
-- Corporate website redesign
-- Enhanced user interface
-- Responsive across devices
-- [View Project](https://meena-plastic-website-redesign.vercel.app/)
-
-## 🛠️ Skills
-- Frontend: React, Tailwind CSS, JavaScript, TypeScript
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL
-- Tools: Git, Docker, AWS, Azure, Firebase
-- Design: Figma, Framer
-
-## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-vaghela-a50a65194/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushvaghela12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAYUSH412)
 
-## 📊 GitHub Stats
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=radical)
+</div>
 
-**Innovate. Create. Inspire.** 🚀
+## 🚀 About Me
+> "Turning coffee into code and dreams into digital reality"
+
+I'm a passionate **Full Stack Developer** who loves crafting digital experiences that make a difference. With a keen eye for detail and a commitment to clean code, I specialize in building scalable, responsive, and user-centric web applications. When I'm not coding, you'll find me exploring new technologies and pushing the boundaries of what's possible in web development.
+
+<div align="center">
+
+### 💡 What I Do Best
+`< Frontend Development />` • `{ Backend Architecture }` • `[ Database Design ]` • `$ DevOps Engineering`
+
+</div>
+
+## 💻 Tech Arsenal
+
+<details>
+<summary>🎨 Frontend Mastery</summary>
+
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+</details>
+
+<details>
+<summary>⚙️ Backend Excellence</summary>
+
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+</details>
+
+<details>
+<summary>🗄️ Database Expertise</summary>
+
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</details>
+
+<details>
+<summary>🛠️ Tools & Platforms</summary>
+
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+</details>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Demo |
+|---------|-------------|------------|------|
+| 🎉 **EventPro** | A full-stack event management platform with seamless ticketing & planning | React, Node.js, MongoDB | [Live Demo](https://eventpro-frontend.vercel.app/) |
+| 🏠 **BuildEstate** | Modern real estate platform with advanced property management | React, Express.js, MongoDB | [Live Demo](https://real-estate-website-sepia-two.vercel.app/) |
+| 🍽️ **BiteBuddy** | Intuitive food ordering system with real-time tracking | React, Tailwind, Node.js | [Live Demo](https://full-stack-online-food-ordering-system-frontend.vercel.app/) |
+| 🛍️ **E-Commerce** | Feature-rich shopping platform with secure payments | MERN Stack | [Live Demo](https://e-commerce-website-frontend-ashy.vercel.app/) |
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH412&layout=compact&theme=radical)
+
+</div>
+
+## 🎯 Quick Highlights
+
+- 🔭 Currently working on: Advanced MERN stack applications
+- 🌱 Learning: Cloud Architecture & Microservices
+- 👯 Looking to collaborate on: Open Source Projects
+- 💬 Ask me about: Web Development, System Design, or Tech Career
+
+
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing!
+
+*"Great code is written with heart and mind in perfect sync"*
+
+⭐️ From [Aayush Vaghela](https://github.com/AAYUSH412)
+
+</div>
