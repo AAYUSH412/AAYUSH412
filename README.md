@@ -61,9 +61,9 @@ I'm a passionate **Full Stack Developer** who loves crafting digital experiences
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
+| 🏠 **BuildEstate** | Modern real estate platform with advanced property management | React, Express.js, MongoDB | [Live Demo](https://buildestate.vercel.app) |
 | 🎉 **EventPro** | A full-stack event management platform with seamless ticketing & planning | React, Node.js, MongoDB | [Live Demo](https://eventpro-frontend.vercel.app/) |
-| 🏠 **BuildEstate** | Modern real estate platform with advanced property management | React, Express.js, MongoDB | [Live Demo](https://real-estate-website-sepia-two.vercel.app/) |
-| 🍽️ **BiteBuddy** | Intuitive food ordering system with real-time tracking | React, Tailwind, Node.js | [Live Demo](https://full-stack-online-food-ordering-system-frontend.vercel.app/) |
+| 🍽️ **BiteBuddy** | Intuitive food ordering system with real-time tracking | React, Tailwind, Node.js | [Live Demo](https://bite-buddy-food.vercel.app) |
 | 🛍️ **E-Commerce** | Feature-rich shopping platform with secure payments | MERN Stack | [Live Demo](https://e-commerce-website-frontend-ashy.vercel.app/) |
 
 </div>
