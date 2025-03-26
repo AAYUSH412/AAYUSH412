@@ -109,11 +109,6 @@ const aayush = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Aayush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAYUSH412&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH412&layout=compact&theme=radical&hide_border=true" width="58%" alt="Most Used Languages" />
 </p>
 
 ## 🚀 Current Focus
