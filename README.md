@@ -1,73 +1,114 @@
 <div align="center">
 
-# 🚀 Aayush Vaghela | Full Stack Developer
-### MERN Stack | AI-Powered Apps | Cloud & DevOps Enthusiast
+# Aayush Vaghela | Full Stack Developer
+### Building intelligent experiences with code ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-vaghela-a50a65194/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushvaghela12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AAYUSH412)
+<a href="https://www.linkedin.com/in/aayush-vaghela-a50a65194/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aayushvaghela12@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/AAYUSH412">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AAYUSH412&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
----
+## 👨‍💻 About Me
 
-## 💡 About Me
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+```javascript
+const aayush = {
+  passion: "Building intelligent, scalable web applications",
+  focus: ["MERN Stack", "AI Integration", "Cloud Architecture"],
+  currentlyLearning: ["PostgreSQL", "Advanced Cloud Architecture", "AI/ML"],
+  lookingToCollaborate: true,
+  quote: "Code is like humor. When you have to explain it, it's bad." - Cory House
+};
+```
 
-I'm a **Full Stack Developer** passionate about building intelligent, scalable, and efficient web applications. With expertise in the **MERN stack**, cloud technologies, and AI-driven solutions, I enjoy crafting digital experiences that are seamless and user-friendly. 
-
-💻 **Currently working on:** AI-powered platforms & real-time applications  
-🌱 **Exploring:** PostgreSQL, Cloud Architecture & AI in Web Development  
-🎯 **Looking to collaborate on:** Open-Source & Innovative Projects
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**🚀 Frontend:** React.js, TypeScript, Tailwind CSS, Framer Motion  
-**⚙️ Backend:** Node.js, Express.js, GraphQL  
-**🗄️ Database:** MongoDB, PostgreSQL, MySQL  
-**☁️ Cloud & DevOps:** Docker, AWS, Supabase, Firebase  
-**🛠️ Tools & Platforms:** Git, GitHub, Postman, VS Code, Figma, JWT Authentication
-
----
-
-## 🌟 Featured Projects
-
-| 🚀 Project | 📌 Description | 🔧 Tech Stack | 🔗 Live Demo |
-|------------|---------------|--------------|-------------|
-| 🏠 **BuildEstate** | AI-powered real estate platform with personalized property recommendations | React, Node.js, MongoDB, AI | [Live Demo](https://buildestate.vercel.app) |
-| 🎉 **EventPro** | Event management platform with ticketing & Google Maps API integration | React, Node.js, MongoDB, Supabase | [Live Demo](https://eventpro-frontend.vercel.app/) |
-| 📷 **AI-Based Attendance** | Face recognition system for automated attendance tracking | MERN, OpenCV, AI | [GitHub](https://github.com/AAYUSH412/Face-Recognition-Attendance-System) |
-| 🛍️ **E-Commerce** | Feature-rich shopping platform with secure payments & cart management | MERN, Stripe, Redux | [Live Demo](https://e-commerce-website-frontend-ashy.vercel.app/) |
-
----
-
-## 📊 GitHub Insights
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH412&layout=compact&theme=tokyonight&hide_border=true)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </div>
 
----
-
-## 🔥 What's Next?
-
-- 🚀 Building **AI-powered Web & Cloud Applications**
-- 💡 Learning **PostgreSQL & Advanced Database Optimization**
-- 🎯 Exploring **DevOps, Microservices & Scalable Architectures**
-
----
+## ✨ Featured Projects
 
 <div align="center">
 
-### 🤝 Let's Connect and Build Something Amazing!
-
-⭐️ **From [Aayush Vaghela](https://github.com/AAYUSH412)**  
-📢 *"Great code is written with passion and precision."*
+<table>
+  <tr>
+    <td>
+      <h3>🏠 BuildEstate</h3>
+      <p><i>AI-powered real estate platform with personalized property recommendations</i></p>
+      <p><b>Tech:</b> React, Node.js, MongoDB, AI</p>
+      <a href="https://buildestate.vercel.app"><img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+    <td>
+      <h3>🎉 EventPro</h3>
+      <p><i>Event management platform with ticketing & Maps API integration</i></p>
+      <p><b>Tech:</b> React, Node.js, MongoDB, Supabase</p>
+      <a href="https://eventpro-frontend.vercel.app/"><img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📷 AI-Based Attendance</h3>
+      <p><i>Face recognition system for automated attendance tracking</i></p>
+      <p><b>Tech:</b> MERN, OpenCV, AI</p>
+      <a href="https://github.com/AAYUSH412/Face-Recognition-Attendance-System"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td>
+      <h3>🛍️ E-Commerce</h3>
+      <p><i>Feature-rich shopping platform with secure payments & cart management</i></p>
+      <p><b>Tech:</b> MERN, Stripe, Redux</p>
+      <a href="https://e-commerce-website-frontend-ashy.vercel.app/"><img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%" alt="Aayush's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAYUSH412&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Aayush's GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+</div>
+
+## 🚀 Current Focus
+
+- Building **AI-powered applications** that solve real-world problems
+- Exploring **advanced database optimization** with PostgreSQL
+- Developing expertise in **cloud architecture and microservices**
+
+<div align="center">
+
+---
+
+### 🤝 Let's connect and build something amazing!
+
+<blockquote>
+  "Great code is written with passion and precision."
+</blockquote>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+
+</div>
