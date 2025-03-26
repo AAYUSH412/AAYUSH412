@@ -87,7 +87,7 @@ const aayush = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%" alt="Aayush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAYUSH412&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Aayush's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AAYUSH412&theme=transparent&hide_border=true" width="48%" alt="Aayush's GitHub Streak" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH412&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
