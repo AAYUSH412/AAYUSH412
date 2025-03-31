@@ -26,7 +26,6 @@ const aayush = {
   focus: ["MERN Stack", "AI Integration", "Cloud Architecture"],
   currentlyLearning: ["PostgreSQL", "Advanced Cloud Architecture", "AI/ML"],
   lookingToCollaborate: true,
-  quote: "Code is like humor. When you have to explain it, it's bad." - Cory House
 };
 ```
 
