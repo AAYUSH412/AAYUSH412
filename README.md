@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -55,7 +55,7 @@ const aayush = {
           <a href="https://buildestate.vercel.app" target="_blank">
             <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
           </a>
-          <a href="https://github.com/AAYUSH412/buildestate" target="_blank">
+          <a href="https://github.com/AAYUSH412/Real-Estate-Website" target="_blank">
             <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
           </a>
         </div>
@@ -68,7 +68,7 @@ const aayush = {
           <a href="https://eventpro-frontend.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
           </a>
-          <a href="https://github.com/AAYUSH412/eventpro" target="_blank">
+          <a href="https://github.com/AAYUSH412/Event-Management-Platform-Eventpro-" target="_blank">
             <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
           </a>
         </div>
@@ -93,7 +93,7 @@ const aayush = {
           <a href="https://e-commerce-website-frontend-ashy.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
           </a>
-          <a href="https://github.com/AAYUSH412/e-commerce" target="_blank">
+          <a href="https://github.com/AAYUSH412/E-commerce-website-with-MERN" target="_blank">
             <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
           </a>
         </div>
