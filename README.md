@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50" alt="Aayush Vaghela">
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-vaghela-a50a65194/">
