@@ -48,63 +48,7 @@ const aayush = {
 
 ## 🏆 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏠 BuildEstate</h3>
-        <div align="center">
-          <a href="https://buildestate.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/AAYUSH412/Real-Estate-Website" target="_blank">
-            <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-        </div>
-        <p><strong>AI-powered real estate platform with personalized property recommendations</strong></p>
-        <p>Tech: React, Node.js, MongoDB, AI</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎉 EventPro</h3>
-        <div align="center">
-          <a href="https://eventpro-frontend.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/AAYUSH412/Event-Management-Platform-Eventpro-" target="_blank">
-            <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-        </div>
-        <p><strong>Event management platform with ticketing & Maps API integration</strong></p>
-        <p>Tech: React, Node.js, MongoDB, Supabase</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📷 AI-Based Attendance</h3>
-        <div align="center">
-          <a href="https://github.com/AAYUSH412/Face-Recognition-Attendance-System" target="_blank">
-            <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-        </div>
-        <p><strong>Face recognition system for automated attendance tracking</strong></p>
-        <p>Tech: MERN, OpenCV, AI</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🛍️ E-Commerce</h3>
-        <div align="center">
-          <a href="https://e-commerce-website-frontend-ashy.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/AAYUSH412/E-commerce-website-with-MERN" target="_blank">
-            <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-        </div>
-        <p><strong>Feature-rich shopping platform with secure payments & cart management</strong></p>
-        <p>Tech: MERN, Stripe, Redux</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">📊 UptimeCheck</h3> <div align="center"> <a href="https://uptimecheck.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/uptimecheck" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Comprehensive website monitoring system with real-time uptime tracking.</strong></p> <p>Tech: Next.js, Bun, PostgreSQL, Prisma, WebSockets</p> </td> <td width="50%"> <h3 align="center">🏠 BuildEstate</h3> <div align="center"> <a href="https://buildestate.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/Real-Estate-Website" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>AI-powered real estate platform with personalized property recommendations.</strong></p> <p>Tech: React, Node.js, MongoDB, AI</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🎉 EventPro</h3> <div align="center"> <a href="https://eventpro-frontend.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/Event-Management-Platform-Eventpro-" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Event management platform with ticketing & Google Maps API integration.</strong></p> <p>Tech: React, Node.js, MongoDB, Supabase</p> </td> <td width="50%"> <h3 align="center">📷 AI-Based Attendance</h3> <div align="center"> <a href="https://github.com/AAYUSH412/Face-Recognition-Attendance-System" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Face recognition system for automated attendance tracking.</strong></p> <p>Tech: MERN, OpenCV, AI</p> </td> </tr> </table> </div>
 
 ## 📊 GitHub Analytics
 
