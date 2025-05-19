@@ -4,72 +4,224 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50" alt="Aayush Vaghela">
 </picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aayush-vaghela-a50a65194/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aayushvaghela12@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/AAYUSH412">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+ <!-- Animated typing effect -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=3584E4&center=true&vCenter=true&random=false&width=600&height=60&lines=Building+next-gen+web+experiences;MERN+Stack+%2B+AI+Integration;Clean+Code+Craftsman;Turning+ideas+into+reality" alt="Typing SVG" /></a>
+  
+  <!-- Modern Badges -->
+  <div>
+    <a href="mailto:nakullagad084@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://linkedin.com/in/nakul-lagad-625017269" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/Lagadnakul" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://twitter.com" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=nakullagad&style=for-the-badge&color=6366f1" alt="Profile views"/>
+  </div>
+  
+  <br/>
+  
+  <!-- About Me Card -->
+  <table>
+    <tr>
+      <th>👨‍💻 About Me</th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          I'm a full-stack developer passionate about creating intelligent, user-friendly applications.<br/>
+          Currently focused on AI integration in web applications and building innovative solutions.<br/><br/>
+          <b>⚡ Currently:</b> Developing an AI assistant with NLP capabilities<br/>
+          <b>🔭 Learning:</b> Advanced React, AWS Architecture, System Design<br/>
+          <b>🌱 Interests:</b> AI/ML, Web3, Cloud Architecture<br/>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Animated GitHub Stats -->
+  <div>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nakullagad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=3584E4&text_color=8B949E" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nakullagad&theme=tokyonight&hide_border=true&background=0D1117&stroke=3584E4&ring=3584E4&fire=3584E4&currStreakNum=FFFFFF&currStreakLabel=3584E4&sideLabels=3584E4&dates=8B949E" alt="GitHub Streak"/>
+  </div>
+  
+  <br/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AAYUSH412&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+<h2 align="center">💻 Tech Stack & Skills</h2>
 
-## 👨‍💻 About Me
+<details open>
+  <summary><b>Frontend Technologies</b></summary>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux,nextjs" />
+    <br/>
+  </div>
+</details>
 
-```javascript
-const aayush = {
-  passion: "Building intelligent, scalable web applications",
-  focus: ["MERN Stack", "AI Integration", "Cloud Architecture"],
-  currentlyLearning: ["PostgreSQL", "Advanced Cloud Architecture", "AI/ML"],
-  lookingToCollaborate: true,
-};
-```
+<details open>
+  <summary><b>Backend & Database</b></summary>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma" />
+    <br/>
+  </div>
+</details>
 
-## 🛠️ Tech Stack
+<details open>
+  <summary><b>AI & ML</b></summary>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+    <br/>
+  </div>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+<details open>
+  <summary><b>DevOps & Tools</b></summary>
+  <div align="center">
+  </div>
+</details>
 
-## 🏆 Featured Projects
-
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">📊 UptimeCheck</h3> <div align="center"> <a href="https://uptimecheck.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/uptimecheck" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Comprehensive website monitoring system with real-time uptime tracking.</strong></p> <p>Tech: Next.js, Bun, PostgreSQL, Prisma, WebSockets</p> </td> <td width="50%"> <h3 align="center">🏠 BuildEstate</h3> <div align="center"> <a href="https://buildestate.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/Real-Estate-Website" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>AI-powered real estate platform with personalized property recommendations.</strong></p> <p>Tech: React, Node.js, MongoDB, AI</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🎉 EventPro</h3> <div align="center"> <a href="https://eventpro-frontend.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/Event-Management-Platform-Eventpro-" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Event management platform with ticketing & Google Maps API integration.</strong></p> <p>Tech: React, Node.js, MongoDB, Supabase</p> </td> <td width="50%"> <h3 align="center">📷 AI-Based Attendance</h3> <div align="center"> <a href="https://github.com/AAYUSH412/Face-Recognition-Attendance-System" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Face recognition system for automated attendance tracking.</strong></p> <p>Tech: MERN, OpenCV, AI</p> </td> </tr> </table> </div>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Aayush's GitHub Stats" />
-</p>
-
-## 🚀 Current Focus
-
-- 🧠 Building **AI-powered applications** that solve real-world problems
-- 🗄️ Exploring **advanced database optimization** with PostgreSQL
-- ☁️ Developing expertise in **cloud architecture and microservices**
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <h3>🤝 Let's connect and build something amazing!</h3>
-  <p><i>"Great code is written with passion and precision."</i></p>
-  <a href="https://www.linkedin.com/in/aayush-vaghela-a50a65194/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://github.com/Lagadnakul/Jarvis-AI" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Jarvis AI"/>
+  </a>
+  <a href="https://github.com/Lagadnakul/Car-Drivers" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Car-Drivers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Car Drivers"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <a href="https://github.com/Lagadnakul/Blogger" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Blogger&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Blogger"/>
+  </a>
+  <a href="https://github.com/Lagadnakul/Hunger-Hive" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lagadnakul&repo=Hunger-Hive&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3584E4&icon_color=F8D866&text_color=8B949E" alt="Hunger Hive"/>
+  </a>
 </div>
+
+<h2 align="center">✨ Project Showcase</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Jarvis AI Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/Lagadnakul/Jarvis-AI" target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/Lagadnakul/Jarvis-AI" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+        </p>
+        <p>
+          <strong>Node.js, Express, OpenAI, MongoDB</strong> - A next-generation voice assistant that combines OpenAI's language models with advanced speech technologies.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚗 Car Drivers Platform</h3>
+      <div align="center">
+        <a href="https://github.com/Lagadnakul/Car-Drivers" target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/Lagadnakul/Car-Drivers" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+        </p>
+        <p>
+          <strong>React, Node.js, Express, MongoDB</strong> - A comprehensive platform for managing car drivers, bookings, and user accounts.
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">📝 Growth Grid Blog Platform</h3>
+      <div align="center">
+        <a href="https://github.com/Lagadnakul/Blogger" target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/Lagadnakul/Blogger" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+          <a href="https://blogger-delta-ten.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+        <p>
+          <strong>Next.js, React, MongoDB</strong> - A sleek, modern blogging platform with a clean responsive design and powerful admin interface.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🍔 Hunger Hive</h3>
+      <div align="center">
+        <a href="https://github.com/Lagadnakul/Hunger-Hive" target="_blank">
+        </a>
+        <p>
+          <a href="https://github.com/Lagadnakul/Hunger-Hive" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+          </a>
+          <a href="https://hunger-hive-demo.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+          </a>
+        </p>
+        <p>
+          <strong>React, Vite, Express.js, MongoDB</strong> - A modern food delivery application with admin panel, customer frontend, and Express.js backend.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakullagad&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=3584E4&text_color=8B949E&hide=html,css&langs_count=6" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/Lagadnakul" target="_blank">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nakullagad&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=3584E4&point=6366F1&color=8B949E" alt="GitHub Activity Graph"/>
+  </a>
+</div>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+  <p>I'm always interested in collaborating on innovative projects and exploring new opportunities!</p>
+  
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>💼 Open to freelance projects and collaborations</li>
+          <li>💻 Looking for interesting open-source contributions</li>
+          <li>🌱 Happy to mentor and help fellow developers</li>
+          <li>☕ Let's chat over virtual coffee!</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  
+  <h4>⚡ Fun Facts:</h4>
+  <p>
+    • Love playing cricket 🏏 and exploring outdoor activities<br>
+    • Coffee enthusiast ☕ who codes better with a cup in hand<br>
+    • Always excited to try out new development tools and frameworks
+  </p>
+</div>
+<br/>  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
