@@ -1,18 +1,11 @@
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://waveify.onrender.com/api/wave?color=%23667eea&height=180&width=1200&amplitude=25&frequency=2.5&speed=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://waveify.onrender.com/api/wave?color=%23007CF0&height=180&width=1200&amplitude=25&frequency=2.5&speed=4">
-  <img src="https://waveify.onrender.com/api/wave?color=%23007CF0&height=180&width=1200&amplitude=25&frequency=2.5&speed=4" alt="Wave Header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Vaghela&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=333333&desc=Full%20Stack%20Developer%20|%20Building%20intelligent%20experiences%20with%20code%20✨&descAlignY=90&descAlign=50" alt="Aayush Vaghela">
 </picture>
 
-<h1> Aayush Vaghela </h1>
-
-<a href="https://aayush-vaghela.vercel.app" target="_blank">
-  <img alt="Role Typing" src="https://waveify.onrender.com/api/typing?text=Full%20Stack%20Developer%20-%20AI%20and%20Cloud%20-%20Open%20Source&speed=75&color=%2300FFFF" />
-</a>
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/aayush-vaghela-a50a65194/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -24,11 +17,9 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AAYUSH412&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
-
-</div>
 
 ## 👨‍💻 About Me
 
@@ -38,14 +29,8 @@ const aayush = {
   focus: ["MERN Stack", "AI Integration", "Cloud Architecture"],
   currentlyLearning: ["PostgreSQL", "Advanced Cloud Architecture", "AI/ML"],
   lookingToCollaborate: true,
-  portfolio: "https://aayush-vaghela.vercel.app",
 };
 ```
-
-<picture>
-  <source media="(max-width: 768px)" srcset="https://waveify.onrender.com/api/wave?color=%23667eea&width=800&height=120&amplitude=18&frequency=2">
-  <img src="https://waveify.onrender.com/api/wave?color=%23667eea&width=1200&height=140&amplitude=20&frequency=2.2" alt="Section Divider" />
-</picture>
 
 ## 🛠️ Tech Stack
 
@@ -62,111 +47,33 @@ const aayush = {
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-<div align="center">
-  <img alt="Tech Typing" src="https://waveify.onrender.com/api/typing/gradient?text=React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&gradientColors=%23667eea,%23764ba2&speed=70" />
-</div>
-
-<picture>
-  <source media="(max-width: 768px)" srcset="https://waveify.onrender.com/api/wave/sine?color=%2300d4ff&width=800&height=110&amplitude=16&frequency=2.4">
-  <img src="https://waveify.onrender.com/api/wave/sine?color=%2300d4ff&width=1200&height=120&amplitude=18&frequency=2.6" alt="Section Divider" />
-</picture>
-
 ## 🏆 Featured Projects
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌊 Waveify</h3>
-      <p align="center">
-        <a href="https://waveipfy.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live_Editor-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Editor" /></a>
-        <a href="https://github.com/AAYUSH412/Waveify" target="_blank"><img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://waveify.onrender.com" target="_blank"><img src="https://img.shields.io/badge/-API_Docs-2563EB?style=for-the-badge" alt="API" /></a>
-      </p>
-      <p><strong>Professional animated SVG components for GitHub READMEs: waves, typing, loaders, terminals, and stats.</strong></p>
-      <p>Tech: Next.js, Node.js, SVG</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 UptimeCheck</h3>
-      <p align="center">
-        <a href="https://uptimecheck.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/AAYUSH412/uptimecheck" target="_blank"><img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-      </p>
-      <p><strong>Comprehensive monitoring with real-time uptime tracking.</strong></p>
-      <p>Tech: Next.js, Bun, PostgreSQL, Prisma, WebSockets</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏠 BuildEstate</h3>
-      <p align="center">
-        <a href="https://buildestate.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/AAYUSH412/Real-Estate-Website" target="_blank"><img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-      </p>
-      <p><strong>AI-powered real estate platform with personalized recommendations.</strong></p>
-      <p>Tech: React, Node.js, MongoDB, AI</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎉 EventPro</h3>
-      <p align="center">
-        <a href="https://eventpro-frontend.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/AAYUSH412/Event-Management-Platform-Eventpro-" target="_blank"><img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-      </p>
-      <p><strong>Event management platform with ticketing & Google Maps API.</strong></p>
-      <p>Tech: React, Node.js, MongoDB, Supabase</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<picture>
-  <source media="(max-width: 768px)" srcset="https://waveify.onrender.com/api/wave/neon?color=%2300ffff&width=800&height=110&amplitude=16&frequency=2.2">
-  <img src="https://waveify.onrender.com/api/wave/neon?color=%2300ffff&width=1200&height=120&amplitude=18&frequency=2.4" alt="Section Divider" />
-</picture>
+<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">📊 UptimeCheck</h3> <div align="center"> <a href="https://uptimecheck.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/uptimecheck" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Comprehensive website monitoring system with real-time uptime tracking.</strong></p> <p>Tech: Next.js, Bun, PostgreSQL, Prisma, WebSockets</p> </td> <td width="50%"> <h3 align="center">🏠 BuildEstate</h3> <div align="center"> <a href="https://buildestate.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/Real-Estate-Website" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>AI-powered real estate platform with personalized property recommendations.</strong></p> <p>Tech: React, Node.js, MongoDB, AI</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🎉 EventPro</h3> <div align="center"> <a href="https://eventpro-frontend.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/AAYUSH412/Event-Management-Platform-Eventpro-" target="_blank"> <img src="https://img.shields.io/badge/-Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Event management platform with ticketing & Google Maps API integration.</strong></p> <p>Tech: React, Node.js, MongoDB, Supabase</p> </td> <td width="50%"> <h3 align="center">📷 AI-Based Attendance</h3> <div align="center"> <a href="https://github.com/AAYUSH412/Face-Recognition-Attendance-System" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div> <p><strong>Face recognition system for automated attendance tracking.</strong></p> <p>Tech: MERN, OpenCV, AI</p> </td> </tr> </table> </div>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH412&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH412&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="Aayush's GitHub Stats" />
 </p>
-
-<div align="center">
-  <img src="https://waveify.onrender.com/api/loader?type=gradient&color=%23667eea&width=300&height=6&glowEffect=true" alt="Gradient Loader" />
-</div>
 
 ## 🚀 Current Focus
 
-- 🧠 Building AI-powered applications that solve real-world problems
-- 🗄️ Exploring advanced database optimization with PostgreSQL
-- ☁️ Developing expertise in cloud architecture and microservices
-
-<div align="center">
-  <a href="https://waveify.onrender.com/api/terminal/github-dark?commands=%5B%22git%20clone%20https%3A%2F%2Fgithub.com%2FAAYUSH412%2FWaveify.git%22%2C%20%22cd%20Waveify%22%2C%20%22npm%20install%22%2C%20%22npm%20run%20dev%22%5D&githubMode=true&width=700" target="_blank">
-    <img alt="Terminal Showcase" src="https://waveify.onrender.com/api/terminal/github-dark?commands=%5B%22git%20clone%20https%3A%2F%2Fgithub.com%2FAAYUSH412%2FWaveify.git%22%2C%20%22cd%20Waveify%22%2C%20%22npm%20install%22%2C%20%22npm%20run%20dev%22%5D&githubMode=true&width=700" />
-  </a>
-</div>
+- 🧠 Building **AI-powered applications** that solve real-world problems
+- 🗄️ Exploring **advanced database optimization** with PostgreSQL
+- ☁️ Developing expertise in **cloud architecture and microservices**
 
 <div align="center">
   <h3>🤝 Let's connect and build something amazing!</h3>
   <p><i>"Great code is written with passion and precision."</i></p>
   <a href="https://www.linkedin.com/in/aayush-vaghela-a50a65194/">
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+
   </a>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://waveify.onrender.com/api/wave?color=%23667eea&height=100&width=1200&amplitude=16&frequency=2.2">
-    <source media="(prefers-color-scheme: light)" srcset="https://waveify.onrender.com/api/wave?color=%23007CF0&height=100&width=1200&amplitude=16&frequency=2.2">
-    <img src="https://waveify.onrender.com/api/wave?color=%23007CF0&height=100&width=1200&amplitude=16&frequency=2.2" alt="Footer Wave" />
-  </picture>
-  <p>
-    <a href="https://waveipfy.vercel.app/">Waveify Editor</a> •
-    <a href="https://waveify.onrender.com/">Waveify API</a> •
-    <a href="https://github.com/AAYUSH412">GitHub</a> •
-    <a href="mailto:aayushvaghela12@gmail.com">Email</a>
-  </p>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
+</div>
+</div>
