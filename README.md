@@ -129,7 +129,7 @@ const aayush = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://waveify.onrender.com/api/stats?username=AAYUSH412" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AAYUSH412&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <div align="center">
