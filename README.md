@@ -30,7 +30,6 @@
 const developer = {
   name: "Aayush Vaghela",
   role: "Full Stack Developer",
-  location: "Vadodara, Gujarat, IN",
   
   expertise: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
@@ -47,7 +46,6 @@ const developer = {
     "Developer experience optimization"
   ],
   
-  philosophy: "Code with purpose, build with passion"
 };
 ```
 
@@ -265,12 +263,6 @@ Learning & Growth:
   - Kubernetes & container orchestration
   - Machine Learning integration patterns
   - System design for high-scale applications
-
-2025 Goals:
-  - Launch 3 major SaaS products
-  - Contribute to 10+ open source projects  
-  - Build tools used by 10,000+ developers
-  - Share knowledge through technical writing
 ```
 
 ## 🏆 Achievements & Recognition
